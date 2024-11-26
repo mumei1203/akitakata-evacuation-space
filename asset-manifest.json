@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/evacuation_space/static/css/main.f855e6bc.css",
-    "main.js": "/evacuation_space/static/js/main.062ad27c.js",
-    "static/js/453.5e2cd7dc.chunk.js": "/evacuation_space/static/js/453.5e2cd7dc.chunk.js",
-    "static/media/logo.svg": "/evacuation_space/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/evacuation_space/index.html",
-    "main.f855e6bc.css.map": "/evacuation_space/static/css/main.f855e6bc.css.map",
-    "main.062ad27c.js.map": "/evacuation_space/static/js/main.062ad27c.js.map",
-    "453.5e2cd7dc.chunk.js.map": "/evacuation_space/static/js/453.5e2cd7dc.chunk.js.map"
+    "main.css": "/akitakata-evacuation_space/static/css/main.f855e6bc.css",
+    "main.js": "/akitakata-evacuation_space/static/js/main.96a39090.js",
+    "static/js/453.5e2cd7dc.chunk.js": "/akitakata-evacuation_space/static/js/453.5e2cd7dc.chunk.js",
+    "static/media/logo.svg": "/akitakata-evacuation_space/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/akitakata-evacuation_space/index.html",
+    "main.f855e6bc.css.map": "/akitakata-evacuation_space/static/css/main.f855e6bc.css.map",
+    "main.96a39090.js.map": "/akitakata-evacuation_space/static/js/main.96a39090.js.map",
+    "453.5e2cd7dc.chunk.js.map": "/akitakata-evacuation_space/static/js/453.5e2cd7dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.062ad27c.js"
+    "static/js/main.96a39090.js"
   ]
 }
